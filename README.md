@@ -1,6 +1,6 @@
 # JSON Form to HTML
 
-This is an HTML form component generator built using react, and bundled using vite. 
+This is an HTML form component generator built using React and bundled using Vite. 
 
 ## Usage
 - In the text field, paste or write your json. The standard format is as shown below
@@ -50,10 +50,10 @@ This is an HTML form component generator built using react, and bundled using vi
 }
 ```
 - Click the "generate" button to view the form component. 
-- Click the "copy component" button to copy the generated HTML. By default, it's configured as complete html with tailwind CDN so you can view it, either (https://codepen.io)[online] or locally.
+- Click the "copy component" button to copy the generated HTML. By default, it's configured as complete html with tailwind CDN so you can view it, either [online](https://codepen.io) or locally.
 
 ## Demo
-link here
+![](https://raw.githubusercontent.com/5ujan/json-form-react/refs/heads/main/public/json-to-form.gif)
 
 ## Try it out
-Site is currently hosted at [https://sbaskota.com.np/json-form react](https://www.sbaskota.com.np/json-form-react/)
+The site is currently hosted at [https://sbaskota.com.np/json-form react](https://www.sbaskota.com.np/json-form-react/)
