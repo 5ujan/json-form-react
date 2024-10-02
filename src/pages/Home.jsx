@@ -47,7 +47,7 @@ export default function Home() {
     
       <h1 className="text-gray-200 text-2xl capitalize">
         Write the form requirements in JSON format in the text area below, click
-        "Generate" to copy the generated form component
+        "Generate" to generate the component and copy to copy the html component to clipboard.
       </h1>
       <div className="flex flex-col justify-evenly lg:flex-row w-[90%] gap-10 min-h-[80vh]">
         <div className="flex flex-col min-w-[50%] gap-2 bg-gray-900 items-center">
